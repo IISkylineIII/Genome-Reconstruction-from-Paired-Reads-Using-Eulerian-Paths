@@ -1,8 +1,6 @@
 # Genome-Reconstruction-from-Paired-Reads-Using-Eulerian-Paths
 
-
-
-# This Python script reconstructs a genome sequence from paired (k,d)-mers by constructing and traversing a De Bruijn graph. It identifies an Eulerian path through the graph to reconstruct the original genome while accounting for the specified gap between k-mers.
+This Python script reconstructs a genome sequence from paired (k,d)-mers by constructing and traversing a De Bruijn graph. It identifies an Eulerian path through the graph to reconstruct the original genome while accounting for the specified gap between k-mers.
 
 # Features
 * Parses paired k-mers from input data.
